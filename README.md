@@ -2,7 +2,7 @@
 
 Replication and actuarial extension of the Isolation Forest algorithm (Liu, Ting & Zhou, 2008) on a realistic credit-application dataset with a 2 % fraud base rate. The study compares the reference unsupervised method against supervised alternatives (Random Forest, XGBoost) combined with class-imbalance techniques (SMOTE, SMOTEENN, class weighting, threshold tuning) using 15+ evaluation metrics designed to be stable under strong class imbalance.
 
-Academic project (M2 Actuariat, ISFA — Data Science), supervised by François Hu. Co-authored with S. Diouf, C. A. D. Kouamé and S. Ouattara.
+Academic project (M2 Actuariat, ISFA — Data Science), Co-authored with S. Diouf, C. A. D. Kouamé and S. Ouattara.
 
 ## What this project does
 
